@@ -1,74 +1,52 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Austen Lamacraft's CV
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and data scientist
+# Austen Lamacraft
+Theoretical Physicist
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:austen.lamacraft@gmail.com">austen.lamacraft@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="ai ai-google-scholar-square ai-2x"></i><a href="https://scholar.google.co.uk/citations?user=ERR4TF0AAAAJ&hl=en">Austen Lamacraft</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
-</div>
+<i class="fa fa-github fa-2x"></i> <a href="https://github.com/AustenLamacraft">AustenLamacraft</a>
 
+</div>
 
 ## Currently
 
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+`2012-`
+__University of Cambridge__ Reader in Theoretical Physics, Department of Physics
 
 ## Employment
 
-`2015-` 
-__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
+
+`2007-2012`
+__University of Virginia__ Assistant Professor, Department of Physics (tenure 2012)
+
+`2005-2007`
+__University of Oxford__ Postdoctoral Fellow, All Souls College
+
+`2002-2005`
+__Princeton University__ Robert H. Dicke Fellow, Department of Physics
+
+`2001-2007`
+__University of Cambridge__ Junior Reseach Fellow, Trinity College
+
+`1998-1999`
+__Barclays Capital__ Derivatives Trader, Interest Rate Exotics
 
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken)
+`1999-2002`
+__University of Cambridge__ PhD Theoretical Physics (supervisor: Ben Simons)
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
+`1997-1998`
+__University of Cambridge__ MMath (Part III Mathematics, _Distinction_)
 
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
-
-## Presentations
-
-### Tutorials
-
-`2014`
-WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
-
-### Talks
-
-`2015`
-EdinbR: The Edinburgh R usergroup (_various_)
-
-MRC IGMM research seminars and section meetings (_various_)
-
-`2014`
-Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
-
-blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
-
-### Posters
-
-`2015`
-_Keystone Epigenomics_ (Keystone CO, USA)
-
-`2014`
-_ISMB_ (Boston MA, USA)
-
-_Genome informatics_ (Cambridge, UK)
-
-_Chromatin: From nucleosomes to chromosomes_ (Cambridge, UK)
-
-`2013`
-_Genome informatics_ (CSHL NY, USA)
-
-_EpiGeneSys_ (Cambridge, UK)
+`1994-1997`
+__University of Cambridge__ BA Natural Sciences (_First Class Honours_)
 
 
 ## Publications
@@ -99,21 +77,11 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 
 ## Technical skills
 
-* R
-* Statistics
-* LaTeX
-* Git / Mercurial
-* UNIX
 * Python
+* LaTeX
+* Git
 * Machine learning
-* Bash
-* Emacs
-* Inkscape
-* Data visualisation
-* Mediawiki
-* Cluster computing
-* HTML and CSS
-* Javascript
+* Numerical computing
 
 ## Projects
 
